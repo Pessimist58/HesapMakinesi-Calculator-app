@@ -25,7 +25,7 @@ As an Emulator: Adjusted for Medium Phone sizes from Android Studio App.
 
 After downloading the file, don't forget to use the "**flutter pub get**" command from the terminal, otherwise it will not work.
 
-## Video
+## Video/Click on the picture and go to the video
 <a href="https://www.youtube.com/watch?v=-VpiBLzbmW8">
   <img src="https://github.com/user-attachments/assets/5031130b-4522-4d2c-9867-58176cf15b5b" alt="Video" width="800"/>
 </a>
