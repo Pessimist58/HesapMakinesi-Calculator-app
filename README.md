@@ -31,8 +31,7 @@ After downloading the file, don't forget to use the "**flutter pub get**" comman
 </a>
 
 ## Gif And ScreenShot
-<img src="https://github.com/user-attachments/assets/2ff87e8f-fd12-42f4-acb5-f130c5135ca0" width="300" height="600">
-<br>
+![hesapmakinesigif](https://github.com/user-attachments/assets/2ff87e8f-fd12-42f4-acb5-f130c5135ca0)<br>
 
 <img src="https://github.com/user-attachments/assets/3c2db3fd-7b80-4dc5-8e08-ed0710b5ec9e" width="300" height="600">
 
