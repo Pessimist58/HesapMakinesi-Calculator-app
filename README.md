@@ -2,19 +2,27 @@
 
 ## Projeyi Web üzerinden canlı olarak görmek için/To see the project live on the Web
 Link: https://hesap-makinesi-app5834.web.app/
+
 Not: Öğeyi denetle bölümünde "Cihaz Araç Çubuğunu Aç/Kapat" seçeneğini işaretleyin, aksi takdirde boyutlar kötü görünecektir.
+
 Note: Check "Toggle Device Toolbar" in the Inspect element section, otherwise the dimensions will look bad.
 
 ## Hesap Makinesi Uygulaması Hakkında/About Calculator App
 Okul projesi için mobil hesap makinesi uygulaması.
+
 Flutter Dart'ta yazıldı.
+
 Emülatör olarak: Android Studio Uygulamasından Medium Phone(Orta Telefon) boyutlarına göre ayarlandı.
+
 Dosyayı indirdikten sonra terminalden flutter pub get komutunu kullanmayı unutmayın, aksi takdirde çalışmayacaktır.
 
 <br>
 Mobile calculator app for school project.
+
 Written in Flutter Dart.
+
 As an Emulator: Adjusted for Medium Phone sizes from Android Studio App.
+
 After downloading the file, don't forget to use the flutter pub get command from the terminal, otherwise it will not work.
 
 ## Video
