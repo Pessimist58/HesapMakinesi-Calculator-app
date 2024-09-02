@@ -15,7 +15,7 @@ Flutter Dart'ta yazıldı.
 Emülatör olarak: Android Studio Uygulamasından Medium Phone(Orta Telefon) boyutlarına göre ayarlandı.
 
 Dosyayı indirdikten sonra terminalden flutter pub get komutunu kullanmayı unutmayın, aksi takdirde çalışmayacaktır.
-
+<br>
 Mobile calculator app for school project.
 
 Written in Flutter Dart.
